@@ -1,5 +1,0 @@
-streamlit
-finance-datareader
-yfinance
-numpy
-pandas
